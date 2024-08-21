@@ -5,7 +5,7 @@
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;KING+V1;WHATSAPP+BUG+BOT;CREATED+BY+SMARTTECH+BOY;RELEASED+15-08-24" alt="Typing SVG" /></a>
   </p>
-    <a href="https://ibb.co/4dZX3XG"><img src="https://i.ibb.co/6BRTLTx/thumb.jpg" alt="thumb" border="0"></a>
+    <a href="https://telegra.ph/file/c67f37ba9636b2c4ae9ed.jpg"><img src="https://telegra.ph/file/c67f37ba9636b2c4ae9ed.jpg" alt="thumb" border="0"></a>
 <p align="center">
 <p align="center">
 <a href="https://github.com/VICKISMARTW123/KING_V1"><img title="Author" src="https://img.shields.io/badge/KINGV1?style=for-the-badge&logo=github"></a>
