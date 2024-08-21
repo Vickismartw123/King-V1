@@ -120,7 +120,7 @@ Contributions to KING_V1 are welcome! If you have ideas for new features, improv
 
 The WhatsApp Bot KING_V1 is released under the [MIT License](https://opensource.org/licenses/MIT).
 
-Enjoy the diverse features of the WhatsApp Bot Toxxic Md to enhance your conversations and make your WhatsApp experience more interesting!
+Enjoy the diverse features of the WhatsApp Bot SMARTTECH to enhance your conversations and make your WhatsApp experience more interesting!
 
 ## Developers:
 
