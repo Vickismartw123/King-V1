@@ -8,16 +8,16 @@
     <a href="https://telegra.ph/file/c67f37ba9636b2c4ae9ed.jpg"><img src="https://telegra.ph/file/c67f37ba9636b2c4ae9ed.jpg" alt="thumb" border="0"></a>
 <p align="center">
 <p align="center">
-<a href="https://github.com/VICKISMARTW123/KING_V1"><img title="Author" src="https://img.shields.io/badge/KINGV1?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Vickismartw123/King-V1"><img title="Author" src="https://img.shields.io/badge/KING-V1?style=for-the-badge&logo=github"></a>
 <p align="center">
 <a href="https://github.com/Vickismartw123/followers"><img title="Followers" src="https://img.shields.io/github/followers/Vickismartw123?color=blue&style=flat-square"></a>
-<a href="https://github.com/Vickismartw123/KING_V1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Vickismartw123/KING_V1-Star?color=red&style=flat-square"></a>
-<a href="https://github.com/Vickismartw123/KING_V1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Vickismartw123/KING_V1?color=green&style=flat-square"></a>
-<a href="https://github.com/Vickismartw123/KING_V1/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Vickismartw123/KING_V1?label=Watchers&color=yellow&style=flat-square"></a>
+<a href="https://github.com/Vickismartw123/KING_V1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Vickismartw123/King-V1-Star?color=red&style=flat-square"></a>
+<a href="https://github.com/Vickismartw123/King-V1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Vickismartw123/King-V1?color=green&style=flat-square"></a>
+<a href="https://github.com/Vickismartw123/King-V1/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Vickismartw123/King-V1?label=Watchers&color=yellow&style=flat-square"></a>
 
 ### FIRST STAR AND FORK (IMPORTANT) 
 
-1. Click on **[Fork](https://github.com/Vickismartw123/KING_V1/fork)** A must . Make sure to add a star 🌟 to encourage the developers.
+1. Click on **[Fork](https://github.com/Vickismartw123/King-V1/fork)** A must . Make sure to add a star 🌟 to encourage the developers.
 ### 2. GET SESSION ID HERE 
 
 <a href='https://replit.com/@obidikechikadib/Toxic-Creds#main.sh' target="_blank"><img alt='PAIR CODE' src='https://img.shields.io/badge/Click here to get your Creds file-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a> 
@@ -28,7 +28,7 @@
 ### DEPLOY ON REPLIT
 IF YOU DON'T HAVE A REPLIT ACCOUNT CREATE ONE AND DEPLOY 
     <br>
-    <a href='https://replit.com/github/Vickismartw123/KING_V1'
+    <a href='https://replit.com/github.com/Vickismartw123/King-V1'
     target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
