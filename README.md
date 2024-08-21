@@ -20,7 +20,7 @@
 1. Click on **[Fork](https://github.com/Vickismartw123/King-V1/fork)** A must . Make sure to add a star 🌟 to encourage the developers.
 ### 2. GET SESSION ID HERE 
 
-<a href='https://replit.com/@obidikechikadib/Toxic-Creds#main.sh' target="_blank"><img alt='PAIR CODE' src='https://img.shields.io/badge/Click here to get your Creds file-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a> 
+<a href='https://replit.com/@victorokezue938/KING-Creds#main.sh' target="_blank"><img alt='PAIR CODE' src='https://img.shields.io/badge/Click here to get your Creds file-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a> 
 
 **DEPLOYMENT PROCESS**
 ### IF YOU WANNA DEPLOY ANYWHERE JUST ADD YOUR CREDS.JSON TO YOUR FORKED REPO**>
